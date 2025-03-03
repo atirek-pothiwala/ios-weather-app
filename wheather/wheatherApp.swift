@@ -11,7 +11,7 @@ import SwiftUI
 struct wheatherApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchPage()
         }
     }
 }

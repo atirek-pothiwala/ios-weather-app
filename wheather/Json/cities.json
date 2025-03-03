@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Ahmedabad",
+        "location": {
+            "latitude": 23.033863,
+            "longitude": 72.585022
+        }
+    },
+    {
+        "name": "Anand",
+        "location": {
+            "latitude": 22.554029,
+            "longitude": 72.948936
+        }
+    },
+    {
+        "name": "Bharuch",
+        "location": {
+            "latitude": 21.705723,
+            "longitude": 72.998199
+        }
+    },
+    {
+        "name": "Surat",
+        "location": {
+            "latitude": 21.170240,
+            "longitude": 72.831062
+        }
+    },
+    {
+        "name": "Vadodara",
+        "location": {
+            "latitude": 22.300000,
+            "longitude": 73.200000
+        }
+    },
+    {
+        "name": "Mehsana",
+        "location": {
+            "latitude": 23.586761,
+            "longitude": 72.369949
+        }
+    },
+    {
+        "name": "Surendranagar",
+        "location": {
+            "latitude": 22.728392,
+            "longitude": 71.637077
+        }
+    },
+    {
+        "name": "Mahuva",
+        "location": {
+            "latitude": 21.105001,
+            "longitude": 71.771645
+        }
+    },
+    {
+        "name": "Rajkot",
+        "location": {
+            "latitude": 22.303894,
+            "longitude": 70.802162
+        }
+    },
+    {
+        "name": "Jamnagar",
+        "location": {
+            "latitude": 22.470701,
+            "longitude": 70.057731
+        }
+    },
+    {
+        "name": "Bhavnagar",
+        "location": {
+            "latitude": 21.764473,
+            "longitude": 72.151932
+        }
+    },
+    {
+        "name": "Junagadh",
+        "location": {
+            "latitude": 21.522184,
+            "longitude": 70.457878
+        }
+    },
+    {
+        "name": "Gandhinagar",
+        "location": {
+            "latitude": 23.223000,
+            "longitude": 72.650997
+        }
+    },
+    {
+        "name": "Nadiad",
+        "location": {
+            "latitude": 22.693939,
+            "longitude": 72.861618
+        }
+    },
+    {
+        "name": "Navsari",
+        "location": {
+            "latitude": 20.946705,
+            "longitude": 72.952034
+        }
+    },
+    {
+        "name": "Porbandar",
+        "location": {
+            "latitude": 21.641705,
+            "longitude": 69.629265
+        }
+    },
+    {
+        "name": "Morbi",
+        "location": {
+            "latitude": 22.817313,
+            "longitude": 70.837669
+        }
+    },
+    {
+        "name": "Patan",
+        "location": {
+            "latitude": 23.850000,
+            "longitude": 72.120000
+        }
+    },
+    {
+        "name": "Vapi",
+        "location": {
+            "latitude": 20.371392,
+            "longitude": 72.904266
+        }
+    },
+    {
+        "name": "Dahod",
+        "location": {
+            "latitude": 22.831890,
+            "longitude": 74.259987
+        }
+    }
+]
